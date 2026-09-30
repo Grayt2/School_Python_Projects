@@ -3,7 +3,6 @@ Python Workshop #2
 Name isn't here cuz I'm putting this on my github :3
 Anyways enjoy this nonsense code I guess
 '''
-from typing import final
 def part1_function(mass = float, velocity = float):
     momentum = mass * velocity
     if momentum >= 1000:
